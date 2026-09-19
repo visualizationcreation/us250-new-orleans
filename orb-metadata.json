@@ -1,0 +1,172 @@
+{
+  "id": "us250-new-orleans",
+  "title": "New Orleans — A river city that made an American sound",
+  "summary": "Follow a river port into music, migration and living memory. Eight readings connect treaties and trade with Congo Square, neighborhood organizations and the work of listening.",
+  "collection": "America at 250 — Four Cities, Many Stories",
+  "pointCount": 8,
+  "language": "en",
+  "canonical": null,
+  "publicationStatus": "prepared",
+  "idMapping": [
+    {
+      "draftId": "us250-new-orleans.p01",
+      "id": "us250-new-orleans-p01"
+    },
+    {
+      "draftId": "us250-new-orleans.p02",
+      "id": "us250-new-orleans-p02"
+    },
+    {
+      "draftId": "us250-new-orleans.p03",
+      "id": "us250-new-orleans-p03"
+    },
+    {
+      "draftId": "us250-new-orleans.p04",
+      "id": "us250-new-orleans-p04"
+    },
+    {
+      "draftId": "us250-new-orleans.p05",
+      "id": "us250-new-orleans-p05"
+    },
+    {
+      "draftId": "us250-new-orleans.p06",
+      "id": "us250-new-orleans-p06"
+    },
+    {
+      "draftId": "us250-new-orleans.p07",
+      "id": "us250-new-orleans-p07"
+    },
+    {
+      "draftId": "us250-new-orleans.p08",
+      "id": "us250-new-orleans-p08"
+    }
+  ],
+  "sourceRegister": [
+    {
+      "id": "bulbancha",
+      "title": "New Orleans: 300 // Bulbancha: 3000",
+      "publisher": "WWNO / Historic New Orleans Collection / University of New Orleans",
+      "url": "https://tripodnola.hnoc.org/episodes/new-orleans-300-bulbancha-3000/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "purchase",
+      "title": "Louisiana Purchase Treaty (1803)",
+      "publisher": "National Archives",
+      "url": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "jazz",
+      "title": "Jazz Origins in New Orleans",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/jazz/learn/historyculture/history_early.htm",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "trade",
+      "title": "New Orleans, Slave Market of the South",
+      "publisher": "Historic New Orleans Collection",
+      "url": "https://hnoc.org/virtual-exhibitions/purchased-lives/new-orleans-slave-market-south",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "banking",
+      "title": "Banking in the Antebellum South",
+      "publisher": "Historic New Orleans Collection",
+      "url": "https://hnoc.org/virtual-exhibitions/money-money-money/banking-antebellum-south",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "jazz-map",
+      "title": "Jazz Map",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/jazz/learn/historyculture/jazz-map.htm",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "armstrong",
+      "title": "The 100th Anniversary of Louis Armstrong’s Arrival in Chicago",
+      "publisher": "Louis Armstrong House Museum",
+      "url": "https://virtualexhibits.louisarmstronghouse.org/2022/07/08/ill-never-forget-it-the-100th-anniversary-of-louis-armstrongs-arrival-in-chicago/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "katrina",
+      "title": "Living with Hurricanes: Katrina and Beyond",
+      "publisher": "Louisiana State Museum",
+      "url": "https://louisianastatemuseum.org/exhibit/living-hurricanes-katrina-and-beyond",
+      "accessedAt": "2026-09-19"
+    }
+  ],
+  "sourcePointAssignments": [
+    {
+      "id": "us250-new-orleans-p01",
+      "sourceIds": [
+        "bulbancha"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p02",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p03",
+      "sourceIds": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p04",
+      "sourceIds": [
+        "trade",
+        "banking"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p05",
+      "sourceIds": [
+        "jazz-map"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p06",
+      "sourceIds": [
+        "armstrong"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p07",
+      "sourceIds": [
+        "katrina"
+      ]
+    },
+    {
+      "id": "us250-new-orleans-p08",
+      "sourceIds": [
+        "bulbancha",
+        "jazz-map"
+      ]
+    }
+  ],
+  "authorship": "Original text authored with Codex for the owner; anonymous public credit.",
+  "media": {
+    "included": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Congosquare-today.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "https://commons.wikimedia.org/wiki/File:Congosquare-today.jpg",
+        "title": "Congo Square in New Orleans",
+        "caption": "A modern view of Congo Square. The photograph shows the place today, not a reconstruction of its early gatherings.",
+        "credit": "Falcanary at English Wikipedia",
+        "license": "Public domain",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "node": "us250-new-orleans-p03",
+        "generated": false
+      }
+    ],
+    "generated": [],
+    "note": "One credited documentary image. No narration or video was supplied."
+  }
+}
