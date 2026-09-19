@@ -155,19 +155,96 @@
   "media": {
     "included": [
       {
-        "src": "https://orbiversity.com/us250-new-orleans/photo.jpg",
-        "source": "https://commons.wikimedia.org/wiki/File:Congosquare-today.jpg",
+        "node": "us250-new-orleans-p01",
+        "title": "The Mississippi curves through New Orleans",
+        "caption": "Aerial view of New Orleans and the Mississippi River, April 2007. Geographic context for Bulbancha’s longer history, not an image of the place before colonization.",
+        "source": "https://commons.wikimedia.org/wiki/File:Nouvelle-Orl%C3%A9ans_vue_a%C3%A9rienne.JPG",
+        "credit": "Ianaré T. Sévi",
+        "license": "Public domain",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p01.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p02",
+        "title": "The Port of New Orleans",
+        "caption": "A container ship at the Napoleon Avenue terminal, April 2007. A modern view illustrating the port’s continuing function; the Louisiana Purchase occurred in 1803.",
+        "source": "https://commons.wikimedia.org/wiki/File:MSC_Marina_docked_at_Port_of_New_Orleans.jpg",
+        "credit": "Gnovick at English Wikipedia",
+        "license": "CC BY 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p02.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p03",
         "title": "Congo Square — modern view",
-        "caption": "A modern view of Congo Square. The photograph shows the place today, not a reconstruction of its early gatherings.",
+        "caption": "A modern photograph of Congo Square. It shows the place, not a reconstruction of its early gatherings.",
+        "source": "https://commons.wikimedia.org/wiki/File:Congosquare-today.jpg",
         "credit": "Falcanary at English Wikipedia",
         "license": "Public domain",
         "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "node": "us250-new-orleans-p03",
-        "generated": false
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p03.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p04",
+        "title": "A slave-auction advertisement, 1856",
+        "caption": "A New Orleans auction broadside dated February 23, 1856, naming people offered for sale. Primary-source evidence of slavery and the city’s trade in human beings; its dehumanizing language is historical evidence.",
+        "source": "https://commons.wikimedia.org/wiki/File:Slave_Auction_New_Orleans_Beard_%26_May_-_23_Feb_1856.jpg",
+        "credit": "J.A. Beard & May, New Orleans, slave auctioneers. Bulletin Print, 35 Gravier St., New Orleans",
+        "license": "Public domain",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p04.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p05",
+        "title": "Mardi Gras morning in Tremé",
+        "caption": "A Tremé neighborhood street on Mardi Gras morning, February 13, 2018. Contemporary place and cultural context rather than a scene from the beginnings of jazz.",
+        "source": "https://commons.wikimedia.org/wiki/File:Mardi_Gras_Morning_in_Treme_2018_14.jpg",
+        "credit": "Infrogmation of New Orleans",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p05.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p06",
+        "title": "King Oliver, circa 1915",
+        "caption": "Historical portrait of jazz musician King Oliver, circa 1915. Oliver’s work connects the New Orleans story to the movement of jazz and Louis Armstrong’s career.",
+        "source": "https://commons.wikimedia.org/wiki/File:King_Oliver_(1915_portrait).jpg",
+        "credit": "Photographer unknown.",
+        "license": "Public domain",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p06.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p07",
+        "title": "Hurricane Katrina from space",
+        "caption": "NASA satellite image of Hurricane Katrina on August 28, 2005. A view of the storm itself, not a photograph of damage or recovery in New Orleans.",
+        "source": "https://commons.wikimedia.org/wiki/File:Katrina_2005-08-28_1700Z.jpg",
+        "credit": "NASA",
+        "license": "Public domain",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p07.jpg"
+      },
+      {
+        "node": "us250-new-orleans-p08",
+        "title": "A living parade tradition",
+        "caption": "Participants in the Big 9 parade on St. Claude Avenue, New Orleans, December 21, 2008. A specific example of the city’s continuing public musical culture.",
+        "source": "https://commons.wikimedia.org/wiki/File:Low9InThe8thGreengals.jpg",
+        "credit": "Infrogmation of New Orleans",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "generated": false,
+        "src": "https://orbiversity.com/orb-archive/point-media-us250-new-orleans-p08.jpg"
       }
     ],
     "generated": [],
-    "note": "One credited documentary image. No narration or video was supplied."
+    "note": "Eight point-specific images with source credits. No narration or video was added."
   },
   "checkedConnections": [
     {
