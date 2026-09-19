@@ -5,7 +5,7 @@
   "collection": "America at 250 — Four Cities, Many Stories",
   "pointCount": 8,
   "language": "en",
-  "canonical": null,
+  "canonical": "https://orbiversity.com/us250-new-orleans/",
   "publicationStatus": "prepared",
   "idMapping": [
     {
@@ -155,7 +155,7 @@
   "media": {
     "included": [
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Congosquare-today.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "src": "https://orbiversity.com/us250-new-orleans/photo.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Congosquare-today.jpg",
         "title": "Congo Square in New Orleans",
         "caption": "A modern view of Congo Square. The photograph shows the place today, not a reconstruction of its early gatherings.",
@@ -168,5 +168,61 @@
     ],
     "generated": [],
     "note": "One credited documentary image. No narration or video was supplied."
-  }
+  },
+  "checkedConnections": [
+    {
+      "sourcePoint": {
+        "id": "us250-new-orleans-p06",
+        "title": "How a local sound travels"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "targetPoint": "us250-detroit-p05",
+      "relation": "comparison",
+      "label": "From a local sound to wider audiences",
+      "reason": "Follow two different ways music traveled: Armstrong’s move from New Orleans to Chicago, and Motown’s recording business in Detroit. This comparison does not claim that one caused the other.",
+      "evidence": [
+        {
+          "url": "https://virtualexhibits.louisarmstronghouse.org/2022/07/08/ill-never-forget-it-the-100th-anniversary-of-louis-armstrongs-arrival-in-chicago/",
+          "title": "The 100th Anniversary of Louis Armstrong’s Arrival in Chicago"
+        },
+        {
+          "url": "https://www.motownmuseum.org/about/esther-gordy/",
+          "title": "Esther Gordy Edwards"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-new-orleans-p07",
+        "title": "Water, disaster and care"
+      },
+      "target": {
+        "id": "us250-los-angeles",
+        "url": "https://orbiversity.com/us250-los-angeles/",
+        "topic": "Los Angeles — Many beginnings, Pacific futures"
+      },
+      "targetPoint": "us250-los-angeles-p03",
+      "relation": "contrast",
+      "label": "Different urban water problems",
+      "reason": "Contrast flood protection and Hurricane Katrina with the geography of Los Angeles water supply. The mechanisms and affected communities are different.",
+      "evidence": [
+        {
+          "url": "https://louisianastatemuseum.org/exhibit/living-hurricanes-katrina-and-beyond",
+          "title": "Living with Hurricanes: Katrina and Beyond"
+        },
+        {
+          "url": "https://www.ladwp.com/who-we-are/our-history/water-system-past-and-present",
+          "title": "Water System — Past and Present"
+        },
+        {
+          "url": "https://www.oviwc.org/water-land-history",
+          "title": "Water & Land History"
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,55 @@
 {
   "schemaVersion": 1,
-  "reaches": []
+  "reaches": [
+    {
+      "sourcePoint": {
+        "id": "us250-new-orleans-p06",
+        "title": "How a local sound travels"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "relation": "comparison",
+      "reason": "Follow two different ways music traveled: Armstrong’s move from New Orleans to Chicago, and Motown’s recording business in Detroit. This comparison does not claim that one caused the other.",
+      "evidence": [
+        {
+          "url": "https://virtualexhibits.louisarmstronghouse.org/2022/07/08/ill-never-forget-it-the-100th-anniversary-of-louis-armstrongs-arrival-in-chicago/",
+          "title": "The 100th Anniversary of Louis Armstrong’s Arrival in Chicago"
+        },
+        {
+          "url": "https://www.motownmuseum.org/about/esther-gordy/",
+          "title": "Esther Gordy Edwards"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-new-orleans-p07",
+        "title": "Water, disaster and care"
+      },
+      "target": {
+        "id": "us250-los-angeles",
+        "url": "https://orbiversity.com/us250-los-angeles/",
+        "topic": "Los Angeles — Many beginnings, Pacific futures"
+      },
+      "relation": "contrast",
+      "reason": "Contrast flood protection and Hurricane Katrina with the geography of Los Angeles water supply. The mechanisms and affected communities are different.",
+      "evidence": [
+        {
+          "url": "https://louisianastatemuseum.org/exhibit/living-hurricanes-katrina-and-beyond",
+          "title": "Living with Hurricanes: Katrina and Beyond"
+        },
+        {
+          "url": "https://www.ladwp.com/who-we-are/our-history/water-system-past-and-present",
+          "title": "Water System — Past and Present"
+        },
+        {
+          "url": "https://www.oviwc.org/water-land-history",
+          "title": "Water & Land History"
+        }
+      ]
+    }
+  ]
 }
